@@ -2,9 +2,9 @@
 
   COMPOSANT       :	ATMEL AVR 8 Bits (RISC)       ATMEGA328 	Quartz = 16,0 MHz
   PROGRAMME	      : Ocm-LTH - configuration.h 
-  VERSION	        : V0.0.0.7
+  VERSION	        : V0.0.0.8
   DATE		        : 04/09/2016
-  DERNIERE MAJ.	  : 24/06/2017 	
+  DERNIERE MAJ.	  : 25/06/2017 	
   DESCRIPTION	    :  	 
   AUTEUR	        : Kermit - Email : developers@opencontrolmonitor.be
   COPYRIGHT       : (C) 2016-2017 OpenControlMonitor
@@ -43,7 +43,7 @@
 */
 
 #define MARQUE                          "Ocm LTH"
-#define VERSION                         "V0.0.0.7"
+#define VERSION                         "V0.0.0.8"
 #define COPYRIGHT                       "(c) Ocm 06/2017"
 
 int8_t myNodeId;
